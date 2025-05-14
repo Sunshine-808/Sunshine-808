@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunshine-808
-- 👀 I’m interested in joining in with any Python, Java, C# / C++ coding projects and engaging with the software development community
+- 👀 I’m interested in joining in with any Python, Java, C# / C++ coding projects and engaging with the software development community. I am also looking for any avid APL developers who can share learning materials and resources; and to speak with anyone who is learning Q# or similar Quantum software development languages.
 - 🌱 I’m currently learning Java and Python. I have experience with Julia, C++, and R as well
 - 💞️ I’m looking to collaborate on anything. Data science, data analysis, software development
 - 📫 How to reach me: message me on here, or find me at a local coding event
